@@ -9,7 +9,7 @@ Machine learning algorithms are computational methods that enable computers to l
    - In supervised learning, the algorithm learns from labeled data, where each example is paired with a label or outcome. It learns to predict the label for new, unseen data based on patterns observed in the training data. Examples include:
      - [Linear Regression](linear_regression.ipynb)
      - [Logistic Regression](Logistic_Regression.ipynb)
-     - [Decision Trees](./machine_learning_algorithms/decision_trees.ipynb)
+     - [Decision Trees](DecisionTrees.ipynb)
      - [Random Forests](./machine_learning_algorithms/random_forests.ipynb)
      - [Support Vector Machines](./machine_learning_algorithms/support_vector_machines.ipynb)
      - [Neural Networks](./machine_learning_algorithms/neural_networks.ipynb)
