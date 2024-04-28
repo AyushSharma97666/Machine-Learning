@@ -11,7 +11,7 @@ Machine learning algorithms are computational methods that enable computers to l
      - [Logistic Regression](Logistic_Regression.ipynb)
      - [Decision Trees](DecisionTrees.ipynb)
      - [Random Forests](Random_Forests.ipynb)
-     - [Support Vector Machines](./machine_learning_algorithms/support_vector_machines.ipynb)
+     - [Support Vector Machines](Support_Vector_Machines.ipynb)
      - [Neural Networks](./machine_learning_algorithms/neural_networks.ipynb)
    
 2. **Unsupervised Learning**: 
